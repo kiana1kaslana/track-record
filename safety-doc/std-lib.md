@@ -29,4 +29,6 @@
 | [161607](https://github.com/rust-lang/rust/pull/161607) | signed integer div/rem methods (i8-i128) | Add #[track_caller] (merged) | kiana1kaslana |
 | [162369](https://github.com/rust-lang/rust/pull/162369) | `recursion_limit` built-in attribute | Document the built-in attribute | kiana1kaslana |
 | [162746](https://github.com/rust-lang/rust/pull/162746) | core::num::bignum | Use u64 limbs | kiana1kaslana |
+| [162879](https://github.com/rust-lang/rust/pull/162879) | core::num::bignum | Use u64 limbs (merged) | kiana1kaslana |
+| [163008](https://github.com/rust-lang/rust/pull/163008) | core::intrinsics::transmute_neo | Add safety section (merged) | kiana1kaslana |
 
